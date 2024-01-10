@@ -1,0 +1,6 @@
+transformers
+streamlit_mic_recorder
+streamlit
+gtts
+tensorflow
+torch
