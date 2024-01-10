@@ -4,3 +4,4 @@ streamlit
 gtts
 tensorflow
 torch
+sentencepiece
